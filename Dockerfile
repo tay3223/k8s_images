@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v2.27.1
+FROM docker.io/alpine:3.12
